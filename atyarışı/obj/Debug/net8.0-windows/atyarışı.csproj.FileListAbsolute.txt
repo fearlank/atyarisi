@@ -1,0 +1,17 @@
+C:\Users\Emre\source\repos\atyarışı\atyarışı\bin\Debug\net8.0-windows\atyarışı.exe
+C:\Users\Emre\source\repos\atyarışı\atyarışı\bin\Debug\net8.0-windows\atyarışı.deps.json
+C:\Users\Emre\source\repos\atyarışı\atyarışı\bin\Debug\net8.0-windows\atyarışı.runtimeconfig.json
+C:\Users\Emre\source\repos\atyarışı\atyarışı\bin\Debug\net8.0-windows\atyarışı.dll
+C:\Users\Emre\source\repos\atyarışı\atyarışı\bin\Debug\net8.0-windows\atyarışı.pdb
+C:\Users\Emre\source\repos\atyarışı\atyarışı\obj\Debug\net8.0-windows\atyarışı.Form1.resources
+C:\Users\Emre\source\repos\atyarışı\atyarışı\obj\Debug\net8.0-windows\atyarışı.Properties.Resources.resources
+C:\Users\Emre\source\repos\atyarışı\atyarışı\obj\Debug\net8.0-windows\atyarışı.csproj.GenerateResource.cache
+C:\Users\Emre\source\repos\atyarışı\atyarışı\obj\Debug\net8.0-windows\atyarışı.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emre\source\repos\atyarışı\atyarışı\obj\Debug\net8.0-windows\atyarışı.AssemblyInfoInputs.cache
+C:\Users\Emre\source\repos\atyarışı\atyarışı\obj\Debug\net8.0-windows\atyarışı.AssemblyInfo.cs
+C:\Users\Emre\source\repos\atyarışı\atyarışı\obj\Debug\net8.0-windows\atyarışı.csproj.CoreCompileInputs.cache
+C:\Users\Emre\source\repos\atyarışı\atyarışı\obj\Debug\net8.0-windows\atyarışı.dll
+C:\Users\Emre\source\repos\atyarışı\atyarışı\obj\Debug\net8.0-windows\refint\atyarışı.dll
+C:\Users\Emre\source\repos\atyarışı\atyarışı\obj\Debug\net8.0-windows\atyarışı.pdb
+C:\Users\Emre\source\repos\atyarışı\atyarışı\obj\Debug\net8.0-windows\atyarışı.genruntimeconfig.cache
+C:\Users\Emre\source\repos\atyarışı\atyarışı\obj\Debug\net8.0-windows\ref\atyarışı.dll
